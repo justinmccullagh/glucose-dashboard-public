@@ -7,6 +7,10 @@ A modern blood glucose monitoring dashboard built with React, TypeScript, and Fi
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-11.10-orange)
 
+<img width="1912" height="1016" alt="image" src="https://github.com/user-attachments/assets/c7237805-6760-45eb-88e1-73f0f523857f" />
+<img width="1898" height="1021" alt="image" src="https://github.com/user-attachments/assets/98a88071-c5ec-4c19-b2d6-f2d04aba89cf" />
+
+
 ## Features
 
 - **Real-time Glucose Monitoring**: Live data visualization with automatic updates
