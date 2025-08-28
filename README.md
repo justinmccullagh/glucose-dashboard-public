@@ -572,12 +572,6 @@ This project is licensed under the MIT License.
 
 ## Development Notes
 
-### Code Quality
-- All console.log statements are commented out in production code for clean console output
-- TypeScript strict mode enabled with comprehensive type checking
-- ESLint configured for code quality and consistency
-- ApexCharts optimized to prevent scrollbar issues and layout shifts
-
 ### Current Implementation Status
 - Main dashboard uses Google Sheets data with time range filtering
 - Dedicated Dexcom dashboard with OAuth integration and real-time updates
